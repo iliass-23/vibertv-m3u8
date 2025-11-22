@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# --- FHD 1080p ---
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080
+http://bk.xiptv.network:80/live/freelist/freelist568/1154.m3u8
