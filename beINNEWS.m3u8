@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080
+http://bk.xiptv.network:80/live/freelist/freelist568/11585.m3u8
+
